@@ -1,0 +1,14 @@
+selector li {
+    font-weight: 400;
+    font-family: Georgia;
+    font-size: 17px;
+    font-style: italic;
+    text-transform: none
+}
+
+selector li span {
+    font-weight: 500;
+    font-family: montserrat;
+    font-size: 16px;
+    font-style: normal;
+}
